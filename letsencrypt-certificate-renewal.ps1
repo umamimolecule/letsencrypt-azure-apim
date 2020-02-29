@@ -1,6 +1,6 @@
 ﻿#######################################################################################
 #
-# A PpowerShell script that renews a Let's Encrypt certificate for an Azure API Management Service
+# A PowerShell script that renews a Let's Encrypt certificate for an Azure API Management Service
 #
 # It is heavily based on this script:
 # https://github.com/Gholie/letsencrypt-aw/blob/master/letsencryptaw_v2.ps1
