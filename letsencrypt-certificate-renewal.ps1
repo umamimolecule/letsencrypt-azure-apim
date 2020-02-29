@@ -6,7 +6,7 @@
 # https://github.com/Gholie/letsencrypt-aw/blob/master/letsencryptaw_v2.ps1
 #
 # Pre-requirements:
-#      - Have a blobl storage account container in which the folder path has been created:
+#      - Have a blob storage account container in which the folder path has been created:
 #        '/.well-known/acme-challenge/', to put here the Let's Encrypt DNS check files
 #
 #      - Add rule in the APIM to redirect HTTP calls to /.well-known/acme-challenge/ to go to the blob container
