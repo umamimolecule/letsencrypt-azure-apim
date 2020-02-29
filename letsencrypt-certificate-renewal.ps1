@@ -26,7 +26,7 @@
 #           - StorageContainer - The container you're using to store your files
 #           - APIMResourceGroupName - The resource group associated with your application gateway
 #           - APIMName - The name of your application gateway
-#           - APIMCertName - The name of the certificate you're replacing (This will always be the same once you've set it)
+#           - APIMCertificateId - The ID of the certificate you're replacing (This will always be the same once you've set it)
 #           - CertificatePassword - The password of your .pfx certificate. This should be set to sensitive!
 #           - NSGName - [Optional] Name of the Network Security Group )optional, if not set then no firewall rules ar emodified)
 #           - NSGRuleName - [Optional] Name of the rule you're setting to allow in your Network Security Group
